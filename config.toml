@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Small Things Matter"
+title = "Trying to Code"
 # theme = "hugo-theme-dream"
 
 # copyright = ""
@@ -25,11 +25,11 @@ title = "Small Things Matter"
   # darkNav = true
   # dark404 = true
 
-  author = "An Author"
+  author = "Meryll S."
   # description = ""
-  avatar = "/img/owlee.gif"
-  headerTitle = "Web App One"
-  motto = "Small Things Matter"
+  avatar = "/img/skater.gif"
+  headerTitle = "Trying to Code"
+  motto = "You get there by trying."
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
@@ -44,10 +44,10 @@ title = "Small Things Matter"
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-  email = ""
-  twitter = "ijm_ph"
-  # facebook = ""
-  instagram = "coffeeandthis"
+  # email = ""
+  twitter = "tweryll"
+  facebook = "meryll.sarco"
+  instagram = "tweryll"
   # mastodon = ""
   # linkedin = ""
   # github = ""
